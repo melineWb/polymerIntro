@@ -23,7 +23,7 @@ class PmHeader extends PmComponent {
               </li>
             </template>
           </ul>
-          <pm-header-search enable-searching="true"></pm-header-search>
+          <pm-header-search enable-searching></pm-header-search>
         </div>
       </nav>
     `;
